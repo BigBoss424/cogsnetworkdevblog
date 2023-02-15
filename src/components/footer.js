@@ -15,6 +15,14 @@ const Footer = () => {
       </a>
       .
     </footer>
+
+    <footer className="my-10 text-left">
+      <a href=""></a>
+      <a href=""></a>
+      <a href=""></a>
+      <a href=""></a>
+      <a href=""></a>
+    </footer>
   )
 }
 
